@@ -16,5 +16,10 @@ namespace OtelProje
         {
             InitializeComponent();
         }
+
+        private void OtelSecimi_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
