@@ -19,13 +19,25 @@ namespace Otelprojesii
         public static string KullaniciID;
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            Sistem sistem = new Sistem();
+            string[] sehiradlari = new string[5] { "İstanbul", "İzmir", "Bursa", "Antalya", "Ankara" };
+            for (int i = 0; i < 5; i++)
+            {
+                Sehir sehir = new Sehir(i, sehiradlari[i]);
+                sistem.SehirEkle(sehir);
+            }
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
             Uyekayiti uyekayiti = new Uyekayiti();
             uyekayiti.Show();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Yonetim yonetici = new Yonetim();
+            yonetici.Show();
         }
     }
 }
