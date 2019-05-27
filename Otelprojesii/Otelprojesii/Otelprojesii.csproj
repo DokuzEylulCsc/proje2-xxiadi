@@ -58,6 +58,12 @@
     <Compile Include="jıj.Designer.cs">
       <DependentUpon>jıj.cs</DependentUpon>
     </Compile>
+    <Compile Include="me.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="me.Designer.cs">
+      <DependentUpon>me.cs</DependentUpon>
+    </Compile>
     <Compile Include="OtelSecmesi.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -68,6 +74,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="me.resx">
+      <DependentUpon>me.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="OtelSecmesi.resx">
       <DependentUpon>OtelSecmesi.cs</DependentUpon>
