@@ -80,13 +80,6 @@
     <Compile Include="Uyekayiti.Designer.cs">
       <DependentUpon>Uyekayiti.cs</DependentUpon>
     </Compile>
-    <Compile Include="Yönetici.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Yönetici.Designer.cs">
-      <DependentUpon>Yönetici.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Yönetme.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -107,9 +100,6 @@
     </Compile>
     <EmbeddedResource Include="Uyekayiti.resx">
       <DependentUpon>Uyekayiti.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Yönetici.resx">
-      <DependentUpon>Yönetici.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
