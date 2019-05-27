@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Proje2
+namespace OtelProje
 {
-    public partial class Form2 : Form
+    public partial class OtelSecimi : Form
     {
-        public Form2()
+        public OtelSecimi()
         {
             InitializeComponent();
         }
