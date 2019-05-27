@@ -16,5 +16,10 @@ namespace Otelprojesii
         {
             InitializeComponent();
         }
+
+        private void OtelEkle_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace Otelprojesii
 {
     class Yönetme
-    {
+    { 
+         ff
     }
 }
