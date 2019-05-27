@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Otelprojesii
 {
-    public partial class UyeKayitOlma : Form
+    public partial class Uyekayiti : Form
     {
-        public UyeKayitOlma()
+        public Uyekayiti()
         {
             InitializeComponent();
         }

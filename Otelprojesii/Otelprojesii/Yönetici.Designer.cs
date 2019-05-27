@@ -1,6 +1,6 @@
 ﻿namespace Otelprojesii
 {
-    partial class UyeKayitOlma
+    partial class Yönetici
     {
         /// <summary>
         /// Required designer variable.
@@ -28,17 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.SuspendLayout();
-            // 
-            // UyeKayitOlma
-            // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(467, 310);
-            this.Name = "UyeKayitOlma";
-            this.Text = "UyeKayitOlma";
-            this.ResumeLayout(false);
-
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Text = "Yönetici";
         }
 
         #endregion
