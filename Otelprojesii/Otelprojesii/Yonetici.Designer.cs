@@ -1,6 +1,6 @@
 ﻿namespace Otelprojesii
 {
-    partial class Yönetici
+    partial class Yonetici
     {
         /// <summary>
         /// Required designer variable.

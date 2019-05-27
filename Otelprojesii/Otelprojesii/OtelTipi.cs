@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace Otelprojesii
 {
-    class OtelTipi
-    {
-    }
+    
+        public enum OtelTipi
+        {
+            Pansiyon = 0,
+            TatilKoyu = 1,
+            ButikOtel = 2,
+            IkiYildizliOtel = 3,
+            UcYildizliOtel = 4,
+            DortYildizliOtel = 5,
+            BesYildizliOtel = 6
+        }
+    
 }

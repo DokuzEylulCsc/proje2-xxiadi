@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Otelprojesii
 {
-    public partial class Yönetici : Form
+    public partial class Yonetici : Form
     {
-        public Yönetici()
+        public Yonetici()
         {
             InitializeComponent();
         }
