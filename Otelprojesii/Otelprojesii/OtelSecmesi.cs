@@ -16,5 +16,9 @@ namespace Otelprojesii
         {
             InitializeComponent();
         }
+
+        private void checkBox10_CheckedChanged(object sender, EventArgs e)
+        {
+                    }
     }
 }
