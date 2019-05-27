@@ -48,6 +48,7 @@
             this.button2.TabIndex = 23;
             this.button2.Text = "Geri";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button1
             // 
@@ -57,6 +58,7 @@
             this.button1.TabIndex = 22;
             this.button1.Text = "Kaydet";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // label3
             // 
@@ -148,6 +150,7 @@
             this.Controls.Add(this.textBox1);
             this.Name = "Uyekayiti";
             this.Text = "Uyekayiti";
+            this.Load += new System.EventHandler(this.Uyekayiti_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
