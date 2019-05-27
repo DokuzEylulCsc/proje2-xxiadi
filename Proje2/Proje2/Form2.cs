@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Proje2
 {
-    public partial class OtelSecim : Form
+    public partial class Form2 : Form
     {
-        public OtelSecim()
+        public Form2()
         {
             InitializeComponent();
         }
