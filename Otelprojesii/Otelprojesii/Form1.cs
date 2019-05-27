@@ -16,5 +16,16 @@ namespace Otelprojesii
         {
             InitializeComponent();
         }
+        public static string KullaniciID;
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Uyekayiti uyekayiti = new Uyekayiti();
+            uyekayiti.Show();
+        }
     }
 }
