@@ -20,5 +20,10 @@ namespace Otelprojesii
         private void checkBox10_CheckedChanged(object sender, EventArgs e)
         {
                     }
+
+        private void OtelSecmesi_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
