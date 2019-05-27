@@ -1,4 +1,4 @@
-﻿namespace OtelProje
+﻿namespace OtelOdev
 {
     partial class Form1
     {
@@ -35,8 +35,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.ClientSize = new System.Drawing.Size(481, 450);
-            this.ForeColor = System.Drawing.SystemColors.Control;
+            this.ClientSize = new System.Drawing.Size(571, 450);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);

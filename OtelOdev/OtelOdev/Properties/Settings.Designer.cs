@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace OtelProje.Properties
+namespace OtelOdev.Properties
 {
 
 

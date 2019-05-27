@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5E827B40-7DD5-4FB0-BE97-06C7C44F2A43}</ProjectGuid>
+    <ProjectGuid>{B92CA109-6129-4B9C-9A47-4A0F8ED32BB6}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>OtelProje</RootNamespace>
-    <AssemblyName>OtelProje</AssemblyName>
+    <RootNamespace>OtelOdev</RootNamespace>
+    <AssemblyName>OtelOdev</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
