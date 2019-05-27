@@ -16,5 +16,10 @@ namespace Proje2
         {
             InitializeComponent();
         }
+
+        private void OtelSecim_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

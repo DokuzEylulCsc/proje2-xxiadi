@@ -173,7 +173,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(617, 12);
+            this.button1.Location = new System.Drawing.Point(551, 55);
             this.button1.Margin = new System.Windows.Forms.Padding(4);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(108, 48);
@@ -356,6 +356,7 @@
             this.Controls.Add(this.comboBox1);
             this.Name = "OtelSecim";
             this.Text = "OtelSecim";
+            this.Load += new System.EventHandler(this.OtelSecim_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
