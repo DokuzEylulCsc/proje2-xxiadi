@@ -1,0 +1,9 @@
+﻿0;İstanbul;1
+5;damla;5;False;True;False;True;False;False;1
+56;True;False;False;False;True;False;175;False;True;False
+1;İzmir;0
+2;Bursa;1
+65;berkay;5;True;True;False;True;False;False;1
+96;True;True;False;True;True;False;230;False;False;True
+3;Antalya;0
+4;Ankara;0

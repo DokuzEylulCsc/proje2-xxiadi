@@ -1,0 +1,76 @@
+C:\Users\Lenovo\source\repos\Proje2\Proje2\bin\Debug\Proje2.exe.config
+C:\Users\Lenovo\source\repos\Proje2\Proje2\bin\Debug\Proje2.exe
+C:\Users\Lenovo\source\repos\Proje2\Proje2\bin\Debug\Proje2.pdb
+C:\Users\Lenovo\source\repos\Proje2\Proje2\obj\Debug\Proje2.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Proje2\Proje2\obj\Debug\Proje2.From1.resources
+C:\Users\Lenovo\source\repos\Proje2\Proje2\obj\Debug\Proje2.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Proje2\Proje2\obj\Debug\Proje2.UyeKaydi.resources
+C:\Users\Lenovo\source\repos\Proje2\Proje2\obj\Debug\Proje2.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Proje2\Proje2\obj\Debug\Proje2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Proje2\Proje2\obj\Debug\Proje2.exe
+C:\Users\Lenovo\source\repos\Proje2\Proje2\obj\Debug\Proje2.pdb
+C:\Users\Lenovo\source\repos\Proje2\Proje2\obj\Debug\Proje2.OtelSecim.resources
+C:\Users\Lenovo\source\repos\Proje2\Proje2\obj\Debug\Proje2.OtelEkle.resources
+C:\Users\Lenovo\source\repos\Proje2\Proje2\obj\Debug\Proje2.Yonetici.resources
+C:\Users\Lenovo\Desktop\DERSLER\Proje2\Proje2\bin\Debug\Proje2.exe.config
+C:\Users\Lenovo\Desktop\DERSLER\Proje2\Proje2\bin\Debug\Proje2.exe
+C:\Users\Lenovo\Desktop\DERSLER\Proje2\Proje2\bin\Debug\Proje2.pdb
+C:\Users\Lenovo\Desktop\DERSLER\Proje2\Proje2\obj\Debug\Proje2.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\DERSLER\Proje2\Proje2\obj\Debug\Proje2.From1.resources
+C:\Users\Lenovo\Desktop\DERSLER\Proje2\Proje2\obj\Debug\Proje2.OdaEkle.resources
+C:\Users\Lenovo\Desktop\DERSLER\Proje2\Proje2\obj\Debug\Proje2.OtelEkle.resources
+C:\Users\Lenovo\Desktop\DERSLER\Proje2\Proje2\obj\Debug\Proje2.OtelSecim.resources
+C:\Users\Lenovo\Desktop\DERSLER\Proje2\Proje2\obj\Debug\Proje2.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\DERSLER\Proje2\Proje2\obj\Debug\Proje2.UyeKaydi.resources
+C:\Users\Lenovo\Desktop\DERSLER\Proje2\Proje2\obj\Debug\Proje2.Yonetici.resources
+C:\Users\Lenovo\Desktop\DERSLER\Proje2\Proje2\obj\Debug\Proje2.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\DERSLER\Proje2\Proje2\obj\Debug\Proje2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\DERSLER\Proje2\Proje2\obj\Debug\Proje2.exe
+C:\Users\Lenovo\Desktop\DERSLER\Proje2\Proje2\obj\Debug\Proje2.pdb
+C:\Users\EnverBerkay\SkyDrive\Desktop\Yeni klasör (2)\Proje2 (1)\Proje2\Proje2\bin\Debug\Proje2.exe.config
+C:\Users\EnverBerkay\SkyDrive\Desktop\Yeni klasör (2)\Proje2 (1)\Proje2\Proje2\bin\Debug\Proje2.exe
+C:\Users\EnverBerkay\SkyDrive\Desktop\Yeni klasör (2)\Proje2 (1)\Proje2\Proje2\bin\Debug\Proje2.pdb
+C:\Users\EnverBerkay\SkyDrive\Desktop\Yeni klasör (2)\Proje2 (1)\Proje2\Proje2\obj\Debug\Proje2.csprojAssemblyReference.cache
+C:\Users\EnverBerkay\SkyDrive\Desktop\Yeni klasör (2)\Proje2 (1)\Proje2\Proje2\obj\Debug\Proje2.From1.resources
+C:\Users\EnverBerkay\SkyDrive\Desktop\Yeni klasör (2)\Proje2 (1)\Proje2\Proje2\obj\Debug\Proje2.OdaEkle.resources
+C:\Users\EnverBerkay\SkyDrive\Desktop\Yeni klasör (2)\Proje2 (1)\Proje2\Proje2\obj\Debug\Proje2.OtelEkle.resources
+C:\Users\EnverBerkay\SkyDrive\Desktop\Yeni klasör (2)\Proje2 (1)\Proje2\Proje2\obj\Debug\Proje2.OtelSecim.resources
+C:\Users\EnverBerkay\SkyDrive\Desktop\Yeni klasör (2)\Proje2 (1)\Proje2\Proje2\obj\Debug\Proje2.Properties.Resources.resources
+C:\Users\EnverBerkay\SkyDrive\Desktop\Yeni klasör (2)\Proje2 (1)\Proje2\Proje2\obj\Debug\Proje2.UyeKaydi.resources
+C:\Users\EnverBerkay\SkyDrive\Desktop\Yeni klasör (2)\Proje2 (1)\Proje2\Proje2\obj\Debug\Proje2.Yonetici.resources
+C:\Users\EnverBerkay\SkyDrive\Desktop\Yeni klasör (2)\Proje2 (1)\Proje2\Proje2\obj\Debug\Proje2.csproj.GenerateResource.cache
+C:\Users\EnverBerkay\SkyDrive\Desktop\Yeni klasör (2)\Proje2 (1)\Proje2\Proje2\obj\Debug\Proje2.csproj.CoreCompileInputs.cache
+C:\Users\EnverBerkay\SkyDrive\Desktop\Yeni klasör (2)\Proje2 (1)\Proje2\Proje2\obj\Debug\Proje2.exe
+C:\Users\EnverBerkay\SkyDrive\Desktop\Yeni klasör (2)\Proje2 (1)\Proje2\Proje2\obj\Debug\Proje2.pdb
+C:\Users\Lenovo\Downloads\Proje2 (1)\Proje2\Proje2\obj\Debug\Proje2.csprojAssemblyReference.cache
+C:\Users\Lenovo\Downloads\Proje2 (1)\Proje2\Proje2\obj\Debug\Proje2.From1.resources
+C:\Users\Lenovo\Downloads\Proje2 (1)\Proje2\Proje2\obj\Debug\Proje2.OdaEkle.resources
+C:\Users\Lenovo\Downloads\Proje2 (1)\Proje2\Proje2\obj\Debug\Proje2.OtelEkle.resources
+C:\Users\Lenovo\Downloads\Proje2 (1)\Proje2\Proje2\obj\Debug\Proje2.OtelSecim.resources
+C:\Users\Lenovo\Downloads\Proje2 (1)\Proje2\Proje2\obj\Debug\Proje2.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\Proje2 (1)\Proje2\Proje2\obj\Debug\Proje2.UyeKaydi.resources
+C:\Users\Lenovo\Downloads\Proje2 (1)\Proje2\Proje2\obj\Debug\Proje2.Yonetici.resources
+C:\Users\Lenovo\Downloads\Proje2 (1)\Proje2\Proje2\obj\Debug\Proje2.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\Proje2 (1)\Proje2\Proje2\obj\Debug\Proje2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Proje2 (1)\Proje2\Proje2\obj\Debug\Proje2.exe
+C:\Users\Lenovo\Downloads\Proje2 (1)\Proje2\Proje2\obj\Debug\Proje2.pdb
+C:\Users\Lenovo\Downloads\Proje2 (1)\Proje2\Proje2\bin\Debug\Proje2.exe.config
+C:\Users\Lenovo\Downloads\Proje2 (1)\Proje2\Proje2\bin\Debug\Proje2.exe
+C:\Users\Lenovo\Downloads\Proje2 (1)\Proje2\Proje2\bin\Debug\Proje2.pdb
+C:\Users\Lenovo\Downloads\Proje2 (1)\Proje2\Proje2\obj\Debug\Proje2.BilgiGuncelleme.resources
+C:\Users\Lenovo\Desktop\Proje2\Proje2\obj\Debug\Proje2.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Proje2\Proje2\obj\Debug\Proje2.BilgiGuncelleme.resources
+C:\Users\Lenovo\Desktop\Proje2\Proje2\obj\Debug\Proje2.From1.resources
+C:\Users\Lenovo\Desktop\Proje2\Proje2\obj\Debug\Proje2.OdaEkle.resources
+C:\Users\Lenovo\Desktop\Proje2\Proje2\obj\Debug\Proje2.OtelEkle.resources
+C:\Users\Lenovo\Desktop\Proje2\Proje2\obj\Debug\Proje2.OtelSecim.resources
+C:\Users\Lenovo\Desktop\Proje2\Proje2\obj\Debug\Proje2.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Proje2\Proje2\obj\Debug\Proje2.UyeKaydi.resources
+C:\Users\Lenovo\Desktop\Proje2\Proje2\obj\Debug\Proje2.Yonetici.resources
+C:\Users\Lenovo\Desktop\Proje2\Proje2\obj\Debug\Proje2.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Proje2\Proje2\obj\Debug\Proje2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Proje2\Proje2\obj\Debug\Proje2.exe
+C:\Users\Lenovo\Desktop\Proje2\Proje2\obj\Debug\Proje2.pdb
+C:\Users\Lenovo\Desktop\Proje2\Proje2\bin\Debug\Proje2.exe.config
+C:\Users\Lenovo\Desktop\Proje2\Proje2\bin\Debug\Proje2.exe
+C:\Users\Lenovo\Desktop\Proje2\Proje2\bin\Debug\Proje2.pdb
